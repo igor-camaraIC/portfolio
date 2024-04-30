@@ -1,6 +1,4 @@
-#Portfólio
-
-Olá, bem vindo ao meu projeto de portfólio.
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
 ## Ferramentas utilizadas:
 
@@ -13,3 +11,5 @@ Olá, bem vindo ao meu projeto de portfólio.
 ## Feito por:
 
 ### Igor da Câmara
+
+### Linkedin: https://www.linkedin.com/in/igor-camara/
